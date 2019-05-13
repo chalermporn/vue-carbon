@@ -1,5 +1,9 @@
 # vue-carbon
 
+
+This project was generated with [Vue CLI] v3.7.0
+<p align="center"><img src ="./screenshot/Screen Shot 2562-05-13 at 16.42.55.png" /></p>
+
 ## Project setup
 ```
 yarn install
