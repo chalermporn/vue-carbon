@@ -12,7 +12,7 @@
 
 /* eslint no-alert: "error" */
 export default {
-  name: 'home',
+  name: 'Home',
   components: {
     // HelloWorld,
   },
